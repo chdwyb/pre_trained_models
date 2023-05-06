@@ -1,8 +1,0 @@
-MPRNet_allweather.pth filter=lfs diff=lfs merge=lfs -text
-Restormer_allweather.pth filter=lfs diff=lfs merge=lfs -text
-TransWeather_allweather.pth filter=lfs diff=lfs merge=lfs -text
-Uformer_allweather.pth filter=lfs diff=lfs merge=lfs -text
-WeatherFormer_Outdoor_Rain.pth filter=lfs diff=lfs merge=lfs -text
-WeatherFormer_Raindrop.pth filter=lfs diff=lfs merge=lfs -text
-WeatherFormer_Snow100K.pth filter=lfs diff=lfs merge=lfs -text
-WeatherFormer_allweather.pth filter=lfs diff=lfs merge=lfs -text
